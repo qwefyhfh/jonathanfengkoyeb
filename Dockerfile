@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="985afa77-f9be-4ee1-a94e-23847779b0fe"
-ARG CADDYIndexPage="https://downsc.chinaz.net/Files/DownLoad/moban/202203/moban6123.rar"
+ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page276/transportz.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
