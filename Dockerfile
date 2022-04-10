@@ -1,8 +1,8 @@
 FROM alpine:edge
 
-ARG AUUID="985afa77-f9be-4ee1-a94e-23847779b0fe"
-ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page276/transportz.zip"
-ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
+ARG AUUID="6157490e-2444-4f3c-99a3-245f6cb68231"
+ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page267/better-clean.zip"
+ARG ParameterSSENCYPT="xchacha20-ietf-poly1305"
 ARG PORT=80
 
 ADD etc/Caddyfile /tmp/Caddyfile
